@@ -3,8 +3,10 @@
 
 
 1 - genero i 5 numeri casuali 
-2 - creo un array con i 5 numeri
+2 - creo un array_casuale con i 5 numeri
 3 - faccio partire il timer 
 4 - creo un input per l' utente
-5 - creo un array con i numeri inseriti dall' utente 
-
+5 - creo un array_utente con i numeri inseriti dall' utente 
+6 - creo una funzione che mette a conftonto 2 array e individua gli elementi uguali 
+7 - contronto array_casuale con array_utente
+8 - stampo in console quanti e quali numeri individuati  
